@@ -1,0 +1,6 @@
+rootProject.name = 'learning-spring-boot'
+
+// Each lesson is a standalone Spring Boot app.
+// To add a new lesson: create the folder (e.g. 03-validation) and add it here.
+include '01-hello-spring-boot'
+include '02-rest-crud-jpa'
