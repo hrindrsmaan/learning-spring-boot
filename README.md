@@ -17,7 +17,7 @@ Each numbered folder is a **standalone, runnable Spring Boot app** that focuses 
 |----|------------------------------------------------|-----------------------------------------------------|---------|
 | 01 | [hello-spring-boot](01-hello-spring-boot)      | First app, `@SpringBootApplication`, `@RestController` | ✅ Done |
 | 02 | [rest-crud-jpa](02-rest-crud-jpa)              | Layered CRUD API, Spring Data JPA, H2, Swagger UI   | ✅ Done |
-| 03 | validation                                     | Bean Validation (`@Valid`, `@NotBlank`, ...)        | ⏳ Todo |
+| 03 | [validation](03-validation)                    | Bean Validation (`@Valid`, `@NotBlank`, ...)        | 🚧 In progress |
 | 04 | exception-handling                             | `@RestControllerAdvice`, `ProblemDetail`            | ⏳ Todo |
 | 05 | dto-and-mapping                                | DTOs vs entities, records, mapping                  | ⏳ Todo |
 | 06 | configuration-and-profiles                     | `application.yml`, `@ConfigurationProperties`, profiles | ⏳ Todo |
