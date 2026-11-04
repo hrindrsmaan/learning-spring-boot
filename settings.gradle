@@ -4,3 +4,4 @@ rootProject.name = 'learning-spring-boot'
 // To add a new lesson: create the folder (e.g. 03-validation) and add it here.
 include '01-hello-spring-boot'
 include '02-rest-crud-jpa'
+include '03-validation'
